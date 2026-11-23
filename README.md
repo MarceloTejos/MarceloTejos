@@ -1,7 +1,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=171717&amp;height=210&amp;section=header&amp;text=MARCELO%20TEJOS.&amp;fontColor=FFFFFF&amp;fontSize=52&amp;fontAlignY=39&amp;desc=FULL%20STACK%20%26%20BACKEND%20DEVELOPER&amp;descAlignY=64&amp;descSize=17&amp;descColor=F97316&amp;animation=fadeIn" alt="Marcelo Tejos - Full Stack y Backend Developer" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect"
+  alt="Marcelo Tejos"
+/>
 
 <br />
 
