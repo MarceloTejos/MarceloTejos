@@ -173,19 +173,8 @@ Formación complementaria:
 
 ---
 
-## 06 / ACTIVIDAD EN GITHUB
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarceloTejos&amp;show_icons=true&amp;hide_border=true&amp;bg_color=171717&amp;title_color=F97316&amp;icon_color=F97316&amp;text_color=FFFFFF" alt="Estadísticas de GitHub">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloTejos&amp;layout=compact&amp;hide_border=true&amp;bg_color=171717&amp;title_color=F97316&amp;text_color=FFFFFF" alt="Lenguajes de GitHub">
-
-</div>
-
----
-
-## 07 / CONECTEMOS
+## 06 / CONECTEMOS
 
 ### ¿TIENES UN PROYECTO EN MENTE?
 
