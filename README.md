@@ -160,19 +160,7 @@ Reconocimiento académico: **6.º lugar de la generación**.
 
 ---
 
-### 06 / GITHUB
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarceloTejos&show_icons=true&hide_border=true&bg_color=171717&title_color=F97316&icon_color=F97316&text_color=FFFFFF&include_all_commits=true" alt="Estadísticas de GitHub de Marcelo Tejos" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloTejos&layout=compact&hide_border=true&bg_color=171717&title_color=F97316&text_color=FFFFFF&langs_count=6" alt="Lenguajes utilizados en GitHub" />
-
-</div>
-
----
-
-### 07 / CONTACTO
+### 06 / CONTACTO
 
 ¿Tienes una oportunidad laboral o un proyecto en el que podamos colaborar?
 
