@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=171717&height=210&section=header&text=MARCELO%20TEJOS.&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=FULL%20STACK%20%26%20BACKEND%20DEVELOPER&descAlignY=64&descSize=17&descColor=F97316&animation=fadeIn" alt="Marcelo Tejos - Full Stack y Backend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=171717&amp;height=210&amp;section=header&amp;text=MARCELO%20TEJOS.&amp;fontColor=FFFFFF&amp;fontSize=52&amp;fontAlignY=39&amp;desc=FULL%20STACK%20%26%20BACKEND%20DEVELOPER&amp;descAlignY=64&amp;descSize=17&amp;descColor=F97316&amp;animation=fadeIn" alt="Marcelo Tejos - Full Stack y Backend Developer" />
 
 <br />
 
@@ -13,13 +13,13 @@ Me enfoco en construir soluciones funcionales, seguras y mantenibles.
 <br />
 
 <a href="https://portafoliomto.netlify.app/">
-  <img src="https://img.shields.io/badge/EXPLORAR_PORTAFOLIO-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explorar portafolio" />
+  <img src="https://img.shields.io/badge/EXPLORAR_PORTAFOLIO-F97316?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explorar portafolio" />
 </a>
 <a href="https://github.com/MarceloTejos?tab=repositories">
-  <img src="https://img.shields.io/badge/VER_PROYECTOS-171717?style=for-the-badge&logo=github&logoColor=white" alt="Ver proyectos" />
+  <img src="https://img.shields.io/badge/VER_PROYECTOS-171717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver proyectos" />
 </a>
 <a href="mailto:Marcelotejos1@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACTO-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" />
+  <img src="https://img.shields.io/badge/CONTACTO-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar correo" />
 </a>
 
 </div>
@@ -47,23 +47,23 @@ Actualmente busco oportunidades para continuar creciendo profesionalmente como *
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS y Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS y Tailwind CSS" />
 </p>
 
 **Backend y bases de datos**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,supabase&theme=dark" alt="Python, FastAPI, Django, PostgreSQL, MySQL y Supabase" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,supabase&amp;theme=dark" alt="Python, FastAPI, Django, PostgreSQL, MySQL y Supabase" />
 </p>
 
 **Herramientas y tecnologías complementarias**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="Docker, Git, GitHub y Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&amp;theme=dark" alt="Docker, Git, GitHub y Visual Studio Code" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/REST_APIs-171717?style=flat-square" alt="REST APIs" />
   <img src="https://img.shields.io/badge/SQL-171717?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/Row_Level_Security-F97316?style=flat-square" alt="Row Level Security" />
@@ -156,21 +156,33 @@ Reconocimiento académico: **6.º lugar de la generación**.
 - Salesforce — Platzi (2026)
 - Scrum Fundamentals — ScrumStudy (2023)
 
-**[Ver reconocimientos](https://portafoliomto.netlify.app/#reconocimiento)**
+**[Ver reconocimientos](https://portafoliomto.netlify.app/)**
 
 ---
 
-### 06 / CONTACTO
+### 06 / GITHUB
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarceloTejos&amp;show_icons=true&amp;hide_border=true&amp;bg_color=171717&amp;title_color=F97316&amp;icon_color=F97316&amp;text_color=FFFFFF&amp;include_all_commits=true" alt="Estadísticas de GitHub de Marcelo Tejos" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloTejos&amp;layout=compact&amp;hide_border=true&amp;bg_color=171717&amp;title_color=F97316&amp;text_color=FFFFFF&amp;langs_count=6" alt="Lenguajes utilizados en GitHub" />
+
+</div>
+
+---
+
+### 07 / CONTACTO
 
 ¿Tienes una oportunidad laboral o un proyecto en el que podamos colaborar?
 
 **Estoy abierto a oportunidades en desarrollo Full Stack, Backend y áreas relacionadas.**
 
 <a href="mailto:Marcelotejos1@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" />
+  <img src="https://img.shields.io/badge/EMAIL-F97316?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Correo electrónico" />
 </a>
 <a href="https://portafoliomto.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTAFOLIO-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+  <img src="https://img.shields.io/badge/PORTAFOLIO-171717?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portafolio" />
 </a>
 
 <br />
@@ -181,6 +193,6 @@ Reconocimiento académico: **6.º lugar de la generación**.
 
 *Ingeniero en Informática · Santiago, Chile*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=171717&height=12&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=171717&amp;height=12&amp;section=footer" alt="" />
 
 </div>
